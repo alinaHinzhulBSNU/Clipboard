@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clipboard</string>
+    <string name="input_hint">Input text</string>
+    <string name="clipboard_hint">Elements from clipboard…</string>
+    <string name="button_hint">Test</string>
+    <string name="drag_drop_hint">Drag and drop:</string>
+</resources>
